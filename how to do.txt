@@ -1,0 +1,13 @@
+How to create new projects with the Vue CLI
+https://itnext.io/how-to-create-new-projects-with-the-vue-cli-454be13701d8
+https://dev.to/napoleon039/how-to-create-new-projects-with-the-vue-cli-3pgo
+
+Step 1
+vue create vue-nested-routing-example
+
+Step 2
+cd vue-nested-routing-example
+
+Step 3
+npm run serve
+
