@@ -11,3 +11,18 @@ cd vue-nested-routing-example
 Step 3
 npm run serve
 
+
+##- 03-Vue Router Nested Routing tutorial -##
+
+Step 1: Install Vue Router
+npm install vue-router --save
+
+Step 2: Nested Routing
+
+Nested routing helps us to render sub-routes inside a particular route like user/1 or user/1/post.
+
+In vue router normally we define one root <router-view> outlet where it renders
+the component which matches the defined path similarly, a rendered component can
+also contain it’s own, nested <router-view>.
+
+Let’s create a User component with <router-view> outlet.
